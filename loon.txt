@@ -7,3 +7,4 @@ code
 dog
 docker
 documentation
+html
